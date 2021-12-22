@@ -1,0 +1,34 @@
+#showcasing{
+    background: linear-gradient(rgba(8, 8, 8, 0.924), rgba(0,0,0,0.4)), url('./imgs/paving3.jpg');
+    background-size: cover;
+    height: 85vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+
+
+#box1{
+    background: linear-gradient(rgba(8, 8, 8, 0.924), rgba(32, 30, 30, 0.801)), url('./imgs/paving3.jpg');
+    background-size: cover;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#box2{
+    background: red;
+    background-size: cover;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+
+#box3{
+    background: linear-gradient(rgba(218, 214, 214, 0.924), rgba(179, 174, 174, 0.801)), url('./imgs/two.jpg');
+    background-size: cover;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
